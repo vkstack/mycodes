@@ -2,4 +2,7 @@
 !*/
 !.gitignore
 !*.cpp
+!*.java
 cc
+Priority*
+hacker*
